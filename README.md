@@ -1,16 +1,23 @@
 # Awesome-ASO App Store Optimization
 
+
 A curated list about App Store Optimization info, resources and tools.
+
 
 _To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md._
 
+
 ## Blogs
+
 
 1. [apptamin](http://www.apptamin.com/blog/)
 
+
 2. [Storefront Brief](https://fortune-insight.onrender.com/shop/) - Weekly App Store policy, pricing, and indie launch intel. Free sample on Telegram.
 
+
 ## Articles & Posts
+
 
 1. [42 Mobile A/B Testing Terms You Need to Know](http://blog.optimizely.com/2015/03/05/43-mobile-ab-testing-terms-you-need-to-know/)
 2. [App Store Optimization – A Crucial Piece of the Mobile App Marketing Puzzle](https://blog.kissmetrics.com/app-store-optimization/)
@@ -39,7 +46,9 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 25. [The Complete App Store Optimization Checklist: 2016 Edition](https://sensortower.com/blog/app-store-optimization-checklist)
 26. [Apple Search Popularity Score Explained](https://trysonar.app/blog/apple-search-popularity) - What Apple's Search Popularity score (5-100) actually measures, the formula to estimate daily impressions from it, and how to use it for keyword research.
 
+
 ## Tools
+
 
 1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
@@ -59,12 +68,8 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
 9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
 10. [SensorTower](https://sensortower.com)
+11. [Screen Studio Kit](https://martingruner.com/projects/screenshot-studio) - Create, localize, validate, and export app-store screenshots locally.
 11. [Screenies](https://screenies.app) - AI App Store screenshot generator: upload raw app screens, get a designed, localized screenshot set in every required device size. Includes an MCP server for Claude Code, Cursor, and other agents.
 12. [Screenproof](https://github.com/vsolano9/screenproof) - App Store screenshot and preview linter for Apple's media requirements.
 12. [Shots](https://shots.run) - Hosted MCP server for AI coding agents to generate App Store screenshots, app icons, ASO listing copy, and localization. Works with Codex, Claude Code, Cursor, and other MCP clients.
 13. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
-14. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
-
-## Books
-
-1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
