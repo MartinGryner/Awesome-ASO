@@ -1,23 +1,16 @@
 # Awesome-ASO App Store Optimization
 
-
 A curated list about App Store Optimization info, resources and tools.
-
 
 _To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md._
 
-
 ## Blogs
-
 
 1. [apptamin](http://www.apptamin.com/blog/)
 
-
 2. [Storefront Brief](https://fortune-insight.onrender.com/shop/) - Weekly App Store policy, pricing, and indie launch intel. Free sample on Telegram.
 
-
 ## Articles & Posts
-
 
 1. [42 Mobile A/B Testing Terms You Need to Know](http://blog.optimizely.com/2015/03/05/43-mobile-ab-testing-terms-you-need-to-know/)
 2. [App Store Optimization – A Crucial Piece of the Mobile App Marketing Puzzle](https://blog.kissmetrics.com/app-store-optimization/)
@@ -46,9 +39,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 25. [The Complete App Store Optimization Checklist: 2016 Edition](https://sensortower.com/blog/app-store-optimization-checklist)
 26. [Apple Search Popularity Score Explained](https://trysonar.app/blog/apple-search-popularity) - What Apple's Search Popularity score (5-100) actually measures, the formula to estimate daily impressions from it, and how to use it for keyword research.
 
-
 ## Tools
-
 
 1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
